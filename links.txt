@@ -7,3 +7,5 @@ https://serverfault.com/questions/249340/install-openssl-dev-on-ubuntu-server
 https://github.com/mhbashari/Install-Python3.4-on-Ubuntu-16.04
 
 https://stackoverflow.com/questions/23548188/how-do-i-compile-python-3-4-with-custom-openssl
+
+https://www.python.org/downloads/source/
