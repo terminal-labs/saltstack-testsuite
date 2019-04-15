@@ -5,3 +5,7 @@ cd Python-3.4.10
 make
 make test
 make altinstall
+virtualenv --python=python3.4 --clear --always-copy --setuptools venv
+source venv/bin/activate
+pip install --upgrade setuptools
+pip install --upgrade pip
