@@ -15,5 +15,6 @@ apt install -y libncursesw5-dev
 apt install -y tk-dev
 apt install -y libgdbm-dev
 apt install -y libc6-dev
+apt install -y libgdbm-compat-dev
 
 apt install -y virtualenv
