@@ -1,7 +1,7 @@
 apt install -y build-essential make checkinstall
 apt install -y g++
 
-apt install -y openssl lzma
+apt install -y openssl lzma gdb
 
 apt install -y libssl-dev
 apt install -y libssl1.0-dev
