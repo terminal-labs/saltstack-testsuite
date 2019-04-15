@@ -14,6 +14,8 @@ apt install -y wget
 apt install -y nano
 apt install -y emacs
 
+apt install -y python
+
 apt install -y python3
 apt install -y python3-pip
 apt install -y python3-dev
