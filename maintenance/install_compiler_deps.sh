@@ -1,4 +1,4 @@
-apt install -y build-essential make
+apt install -y build-essential make checkinstall
 apt install -y g++
 
 apt install -y openssl lzma
