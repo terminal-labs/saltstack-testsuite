@@ -4,7 +4,6 @@ chmod 777 Python-3.4.10
 cd Python-3.4.10
 ./configure --with-ssl --with-zlib --with-ensurepip --prefix=/usr/local/
 make
-make test
 make altinstall
 virtualenv --python=python3.4 --clear --always-copy --setuptools venv
 source venv/bin/activate
